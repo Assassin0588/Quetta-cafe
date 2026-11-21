@@ -15,6 +15,7 @@ const Frontend = () => {
             <Route path="/login" element={<Login />} /> 
             <Route path="/register" element={<Register />}  />
             <Route path="/forget" element={<Forget />}  />
+            <Route path="*" element={<main className="flex justify-center items-center h-screen"><h1 className="text-4xl font-bold text-orange-400">404 Page Not Found</h1></main>}  />
         </Routes>
         </>
     )

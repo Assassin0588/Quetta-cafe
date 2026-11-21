@@ -25,10 +25,10 @@ const Contact = () => {
                 </svg>
               </div>
               <h4 className="text-xl font-bold text-gray-900 mb-2">
-                Visit Us
+                Visit Us For Web Development
               </h4>
               <p className="text-gray-600 text-sm">
-                Main Boulevard, Quetta
+                Fsd
               </p>
             </div>
 
@@ -56,7 +56,7 @@ const Contact = () => {
                 Call Us
               </h4>
               <p className="text-gray-600 text-sm">
-                +92 3XX-XXXXXXX
+                +92 315-0588862
               </p>
             </div>
           </div>
